@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adityaa871/Leetcode/tree/master/0036-valid-sudoku) |
+| [1260-shift-2d-grid](https://github.com/Adityaa871/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adityaa871/Leetcode/tree/master/0036-valid-sudoku) |
+| [1260-shift-2d-grid](https://github.com/Adityaa871/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityaa871/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Adityaa871/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
