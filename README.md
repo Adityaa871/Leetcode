@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityaa871/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Adityaa871/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Adityaa871/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Adityaa871/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityaa871/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Adityaa871/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Adityaa871/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Adityaa871/Leetcode/tree/master/1260-shift-2d-grid) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
