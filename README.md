@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adityaa871/Leetcode/tree/master/0036-valid-sudoku) |
+| [0055-jump-game](https://github.com/Adityaa871/Leetcode/tree/master/0055-jump-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaa871/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Adityaa871/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityaa871/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adityaa871/Leetcode/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityaa871/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Adityaa871/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Adityaa871/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
