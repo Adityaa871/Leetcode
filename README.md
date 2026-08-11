@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Adityaa871/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Adityaa871/Leetcode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/Adityaa871/Leetcode/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/Adityaa871/Leetcode/tree/master/0486-predict-the-winner) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Adityaa871/Leetcode/tree/master/0035-search-insert-position) |
 | [0099-recover-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityaa871/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
