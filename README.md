@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityaa871/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Adityaa871/Leetcode/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adityaa871/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityaa871/Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Adityaa871/Leetcode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityaa871/Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Adityaa871/Leetcode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/Adityaa871/Leetcode/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Adityaa871/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Adityaa871/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
