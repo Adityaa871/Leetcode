@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Adityaa871/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Adityaa871/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/Adityaa871/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityaa871/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaa871/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Adityaa871/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaa871/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityaa871/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityaa871/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Adityaa871/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Adityaa871/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0213-house-robber-ii](https://github.com/Adityaa871/Leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Adityaa871/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Adityaa871/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adityaa871/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Adityaa871/Leetcode/tree/master/1406-stone-game-iii) |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Adityaa871/Leetcode/tree/master/0056-merge-intervals) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Adityaa871/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
