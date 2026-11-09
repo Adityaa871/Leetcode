@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Adityaa871/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Adityaa871/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0162-find-peak-element](https://github.com/Adityaa871/Leetcode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Adityaa871/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Adityaa871/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityaa871/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaa871/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Adityaa871/Leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/Adityaa871/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/Adityaa871/Leetcode/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Adityaa871/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityaa871/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Adityaa871/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adityaa871/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityaa871/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaa871/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Adityaa871/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Adityaa871/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/Adityaa871/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adityaa871/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Adityaa871/Leetcode/tree/master/0547-number-of-provinces) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Adityaa871/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Adityaa871/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Adityaa871/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
